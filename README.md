@@ -17,7 +17,9 @@ M bir birim ilerle demek. Artık yüzünüz o anda hangi yöne bakıyorsa o yön
 
 Test Input:
  5 5
+ 
  1 2 N
+ 
  LMLMLMLMM
 
 Expected Output:
