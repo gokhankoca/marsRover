@@ -10,7 +10,7 @@ if True:
            
     if dosya:
         try:
-            okuma(dosya + '.txt')
+            okuma(dosya)
         except IOError:
             print "Dosya Bulunamadı!"
 
