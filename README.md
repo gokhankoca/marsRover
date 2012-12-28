@@ -1,4 +1,4 @@
-python
+Sorun
 ======
 ----------------------Bir iş görüşmesinde, test amaçlı sorulmuş bir sorudur--------------
 
@@ -24,3 +24,13 @@ Test Input:
 
 Expected Output:
  1 3 N
+ 
+Çalışma Mantığı
+======
+Programı çalıştırdığınızda, program çalıştırılmak istenen dosyanın adını soracaktır. Girilen isimde dosya var ise
+program çalışacak yok ise hata mesajı verecektir. Eğer açılan dosya içinde gerekli komutlar yok veya yanlış verilmiş ise
+yine hata mesajı verecek, doğru ise işlem sonucu verecektir.
+
+Kullanımı
+======
+Programı çalıştırınız ve istenilen komut dosyasının erişim adresini giriniz.
